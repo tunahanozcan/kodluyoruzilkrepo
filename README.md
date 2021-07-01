@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo 
- Bu repo [Kodluyoruz](https://google.com/)   Front-End Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+ Bu repo [Kodluyoruz](https://google.com/)   C# Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![github](cloud.png)
 ## Installation
